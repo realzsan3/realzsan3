@@ -30,15 +30,6 @@ Some things I’ve worked on along the way:
 
 ---
 
-## Tech
-
-What I usually work with:
-
-* Python / JavaScript
-* Docker / Linux
-
----
-
 ## Activity
 
 Not very active, but consistent
